@@ -97,7 +97,7 @@ li{
 
 #about-me{
 	color:#4aaaa5;
-	font-size:20px;
+	font-size:25px;
 	padding-left:30px;
 	padding-top:30px;
 	padding-bottom:30px;
@@ -130,7 +130,7 @@ p{
 
 #contact-me{
 	color:#4aaaa5;
-	font-size:20px;
+	font-size:25px;
 	padding-left:0px;
 	padding-top:30px;
 	padding-bottom:30px;
@@ -160,6 +160,71 @@ p{
 	margin-right:20px;
 }
 
+
+
+#contact-form{
+ 
+	margin-top:35px;
+	margin-right:0px;
+	margin-bottom:0px;
+	margin-left:50px;
+	height:460px;
+	width:50%;
+	overflow: auto;
+	background-color: #ffffff;
+	position: absolute;
+}
+
+#contact-head{
+	color:#4aaaa5;
+	font-size:25px;
+	padding-left:30px;
+	padding-top:30px;
+	padding-bottom:20px;
+}
+
+form{
+	color:#a6a6a6;
+	font-size:18px;
+	padding-left:30px;
+}
+
+#name-box{
+	width:500px;
+	margin-top:8px;
+	margin-bottom:10px;
+	color:#cccccc;
+}
+
+#email-box{
+	width:500px;
+	margin-top:8px;
+	margin-bottom:10px;
+	color:#cccccc;
+}
+
+#message-box{
+	width:500px;
+	height:160px;
+	margin-top:8px;
+	margin-bottom:10px;
+	color:#cccccc;
+}
+
+#submit-button{
+	margin-top:5px;
+	background-color:#4aaaa5;
+	color:white;
+	height:35px;
+	width:80px;
+	font-size:19px;
+}
+
+
+
+
+
+
 footer{
 	height:45px;
 	width:1200px;
@@ -170,8 +235,6 @@ footer{
 	border-top-style:solid;
 	border-top-color:#4aaaa5;
 	border-top-width:8px;
-	
-
 }
 
 
